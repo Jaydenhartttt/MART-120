@@ -1,0 +1,23 @@
+#setup{
+	background-color: lightblue; 
+	text-align: center;
+}
+
+ul.listColor{
+	color: brown;
+}
+
+ol.listColor2{
+	color: brown;
+}
+
+#linkColor{
+	color: orange;
+}
+
+#pageBackground{
+	background-image: url(backgroundimage.jpg);
+	background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
